@@ -1,2 +1,2 @@
 # counter
-I made a js on click counter its not finished yet but its functional. 
+I made a js on click counter this is the unfinished version.  
